@@ -1,0 +1,14 @@
+# Ignore build directory
+build/
+
+# Ignore IDF environment configs
+sdkconfig.old
+sdkconfig.defaults
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore editor/OS files
+.DS_Store
+*.swp
